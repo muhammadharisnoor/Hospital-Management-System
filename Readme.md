@@ -1,4 +1,4 @@
-Hospital Management System
+Hospital Management System <br>
 Developed By: M Haris Noor | Mohammadullah Ashori | Muhammad Irzam
 Instructor: Dr Muhammad Asif
 
