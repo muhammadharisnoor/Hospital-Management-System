@@ -1,5 +1,5 @@
 Hospital Management System <br>
-Developed By: M Haris Noor | Mohammadullah Ashori | Muhammad Irzam
+Developed By: M Haris Noor | Mohammadullah Ashori | Muhammad Irzam<br>
 Instructor: Dr Muhammad Asif
 
 <h1>Introduction</h1>
